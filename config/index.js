@@ -188,8 +188,8 @@ export const USER_CONFIG = {
     {"type": "*生日", "name": "宝贝群群", "year": "1999", "date": "02-01", isShowAge: true},
     {"type": "节日", "name": "在一起纪念日", "year": "2018", "date": "10-13"},
     // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-    {"type": "生日", "name": "群群", "year": "1999", "date": "02-01", isShowAge: true},
-    {"type": "节日", "name": "测试纪念日", "year": "2021", "date": "09-01"},
+   // {"type": "生日", "name": "群群", "year": "1999", "date": "02-01", isShowAge: true},
+   // {"type": "节日", "name": "测试", "year": "2021", "date": "09-01"},
     // 你可以不断按格式往下增加
     // ...
   ],
@@ -209,11 +209,11 @@ export const USER_CONFIG = {
    * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2022-09-08"},
+    {"keyword": "love_day", date: "2018-10-13"},
     // 结婚纪念日
-    {"keyword": "marry_day", date: "2022-09-09"},
+    {"keyword": "marry_day", date: "2023-09-09"},
     // 退伍日
-    {"keyword": "ex_day", date: "2022-09-10"},
+    {"keyword": "ex_day", date: "2022-09-24"},
     // 你可以不断按格式往下增加
     // ...
   ],
