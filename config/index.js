@@ -94,42 +94,42 @@ export const USER_CONFIG = {
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-    {
-      name: "宝贝群群",
-      id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
-      useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://baidu.com",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "宝贝群群",
-      id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
-      useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    {
-      name: "宝贝群群",
-      id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
-      useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
+  //  {
+ //     name: "宝贝群群",
+  //    id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
+  //    useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
+   //   province: "",
+   //   city: "",
+  //    horoscopeDate: '',
+  //    horoscopeDateType: '',
+  //    openUrl: "https://baidu.com",
+  //    festivals: [],
+   //   customizedDateList: []
+  //  },
+  //  {
+  //    name: "宝贝群群",
+  //    id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
+  //    useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
+  //    province: "",
+  //    city: "",
+  //    horoscopeDate: '',
+  //    horoscopeDateType: '',
+  //    openUrl: "https://wangxinleo.cn",
+   //   festivals: [],
+   //   customizedDateList: []
+//   },
+  //  {
+    //  name: "宝贝群群",
+  //    id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
+  //    useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
+   //   province: "",
+  //    city: "",
+  //    horoscopeDate: '',
+   //   horoscopeDateType: '',
+  //    openUrl: "https://wangxinleo.cn",
+   //   festivals: [],
+ //     customizedDateList: []
+  //  },
     // 你可以不断按格式往下增加
     // ...
   ],
