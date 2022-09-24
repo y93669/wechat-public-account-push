@@ -81,19 +81,19 @@ export const USER_CONFIG = {
         {"type": "*生日", "name": "宝贝群群", "year": "1999", "date": "02-01"},
         {"type": "节日", "name": "在一起纪念日", "year": "2018", "date": "10-13"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
-        {"type": "生日", "name": "群群", "year": "1999", "date": "02-01"},
-        {"type": "节日", "name": "测试纪念日", "year": "2018", "date": "09-01"},
+     //   {"type": "生日", "name": "群群", "year": "1999", "date": "02-01"},
+      //  {"type": "节日", "name": "测试纪念日", "year": "2018", "date": "09-01"},
       ],
       // 专属纪念日/倒数日，如果你在这里填写了纪念日/倒数日，就不会计算CUSTOMIZED_DATE_LIST的日子了, 和CUSTOMIZED_DATE_LIST的配置方法相同，可以往下查看，我这里就不重复写了
       customizedDateList: [
         // 在一起的日子
         {"keyword": "love_day", date: "2018-10-13"},
-        // 纪念日
-        {"keyword": "marry_day", date: "2022-12-09"},
-        // 纪念日
+        // 结婚纪念日
+        {"keyword": "marry_day", date: "2022-12-08"},
+        // 其他纪念日
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
-    },
+    }
   //  {
  //     name: "宝贝群群",
   //    id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
@@ -105,30 +105,6 @@ export const USER_CONFIG = {
   //    openUrl: "https://baidu.com",
   //    festivals: [],
    //   customizedDateList: []
-  //  },
-  //  {
-  //    name: "宝贝群群",
-  //    id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
-  //    useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
-  //    province: "",
-  //    city: "",
-  //    horoscopeDate: '',
-  //    horoscopeDateType: '',
-  //    openUrl: "https://wangxinleo.cn",
-   //   festivals: [],
-   //   customizedDateList: []
-//   },
-  //  {
-    //  name: "宝贝群群",
-  //    id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
-  //    useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
-   //   province: "",
-  //    city: "",
-  //    horoscopeDate: '',
-   //   horoscopeDateType: '',
-  //    openUrl: "https://wangxinleo.cn",
-   //   festivals: [],
- //     customizedDateList: []
   //  },
     // 你可以不断按格式往下增加
     // ...
