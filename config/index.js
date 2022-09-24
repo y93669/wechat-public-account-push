@@ -64,7 +64,7 @@ export const USER_CONFIG = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "oGam45vLNHA-mPYDdEvqYXm6UXF0",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "3NPdkGKwjO57XfeRtqoY1z7vhrsdaXJlm-BSE17Pm0U",
+      useTemplateId: "Wuhz7qWujTCE07UPbID5uflybtY5WM1rPaJ7o-CaN28",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -79,7 +79,7 @@ export const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {"type": "*生日", "name": "宝贝群群", "year": "1999", "date": "02-01"},
-        {"type": "节日", "name": "在一起纪念日", "year": "2018", "date": "10-13"},
+        {"type": "节日", "name": "恋爱纪念日", "year": "2018", "date": "10-13"},
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
      //   {"type": "生日", "name": "群群", "year": "1999", "date": "02-01"},
       //  {"type": "节日", "name": "测试纪念日", "year": "2018", "date": "09-01"},
